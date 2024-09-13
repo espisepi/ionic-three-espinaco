@@ -1,0 +1,7 @@
+{
+  "name": "ionic-three-espinaco",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
